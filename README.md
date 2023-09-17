@@ -21,7 +21,7 @@ I am a full stack developer/data specialist. I enjoy working with data & making 
   <img alt="knex logo" src="https://img.shields.io/badge/knex-orange?style=flat-square" />
   <img alt="sqlite3 logo" src="https://img.shields.io/badge/SQLite3-003B57.svg?style=flat-square&logo=SQLite&logoColor=white" />
   <img alt="express logo" src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white" />
-  <img alt="python logo" src="https://img.shields.io/badge/Python-FFFFFF.svg?style=flat-square&logo=Python&logoColor=yellow" />
+  <img alt="python logo" src="https://img.shields.io/badge/Python-000000.svg?style=flat-square&logo=Python&logoColor=yellow" />
   
 </p>
 
