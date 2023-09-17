@@ -2,6 +2,15 @@
 
 I am a full stack developer/data specialist. I enjoy working with data & making tech that is accessible and purposeful
 
+
+
+- 🔭 I’m currently reading "Scala Programming Projects" by Nicolas Jorand & Mikaël Valot and O'Reilly 
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on data heavy applications, geospatial applications, digital arts/culture & open source experimental electronic music technology (ie new approaches to digital sound synthesis with reference to FM and granular, collaborative and/or distributive approaches to live electronic music production, sampling, EQs/filtering, algorave, audio archiving and cataloging technology)
+- 🤔 I’m looking for help with Golang and Apache Spark
+- 💬 Ask me about Tidal Cycles, Supercollider & MaxMSP
+- 📫 How to reach me: sachabeaumier.github.io or on some niche discogs subforum
+
 <p>
   <img alt="React logo" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  
   <img alt="TypeScript logo" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -12,16 +21,9 @@ I am a full stack developer/data specialist. I enjoy working with data & making 
   <img alt="knex logo" src="https://img.shields.io/badge/knex-orange?style=flat-square" />
   <img alt="sqlite3 logo" src="https://img.shields.io/badge/SQLite3-003B57.svg?style=flat-square&logo=SQLite&logoColor=white" />
   <img alt="express logo" src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white" />
-  <!-- <img alt="python logo" src="https://img.shields.io/badge/Python-000000.svg?style=flat-square&logo=Python&logoColor=yellow" /> -->
+  <img alt="python logo" src="https://img.shields.io/badge/Python-000000.svg?style=flat-square&logo=Python&logoColor=yellow" />
   
 </p>
-
-- 🔭 I’m currently reading "Scala Programming Projects" by Nicolas Jorand & Mikaël Valot and O'Reilly 
-- 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on data heavy applications, geospatial applications, digital arts/culture & open source experimental electronic music technology (ie new approaches to digital sound synthesis with reference to FM and granular, collaborative and/or distributive approaches to live electronic music production, sampling, EQs/filtering, algorave, audio archiving and cataloging technology)
-- 🤔 I’m looking for help with Golang and Apache Spark
-- 💬 Ask me about Tidal Cycles, Supercollider & MaxMSP
-- 📫 How to reach me: sachabeaumier.github.io or on some niche discogs subforum
 
 
 <a href="https://github.com/sachabeaumier/github-readme-stats">
