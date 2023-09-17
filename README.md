@@ -7,6 +7,9 @@
 - 💬 Ask me about Tidal Cycles, Supercollider & MaxMSP
 - 📫 How to reach me: sachabeaumier.github.io
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachabeaumier)](https://github.com/sachabeaumier/github-readme-stats)
+[![Sacha's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachabeaumier)](https://github.com/sachabeaumier/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachabeaumier)](https://github.com/sachabeaumier/github-readme-stats)
 
 
