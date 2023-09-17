@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m currently progressing through on Scala Programming Projects by Nicolas Jorand & Mikaël Valot and improving my HackerRank
-- 🌱 I’m currently learning Scala and Golang
-- 👯 I’m looking to collaborate on data heavy applications, geospatial applications & open source music tech (ie synths, samplers, EQs/filtering)
-- 🤔 I’m looking for help with Golang, Apache Spark
+I am a full stack developer/data specialist. I enjoy working with data & making tech that is accessible and purposeful
+
+- 🔭 I’m currently reading "Scala Programming Projects" by Nicolas Jorand & Mikaël Valot and O'Reilly 
+- 🌱 I’m currently learning Golang
+- 👯 I’m looking to collaborate on data heavy applications, geospatial applications & open source and experimental music technology (ie new approaches to digital synthesis in particular FM and granular, samplers, EQs/filtering, algorave)
+- 🤔 I’m looking for help with Golang and Apache Spark
 - 💬 Ask me about Tidal Cycles, Supercollider & MaxMSP
-- 📫 How to reach me: sachabeaumier.github.io
+- 📫 How to reach me: sachabeaumier.github.io or on an arcane discogs forum
 
 
 <a href="https://github.com/sachabeaumier/github-readme-stats">
