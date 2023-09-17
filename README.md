@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Golang, Apache Spark
 - 💬 Ask me about Tidal Cycles, Supercollider & MaxMSP
 - 📫 How to reach me: sachabeaumier.github.io
-- ⚡ Oft used emoji: 😎😎😎😎😎😎😎
+
 -->
