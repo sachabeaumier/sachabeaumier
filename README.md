@@ -9,7 +9,7 @@ I am a full stack developer/data specialist. I enjoy working with data & making 
 - 👯 I’m looking to collaborate on data heavy applications, geospatial applications, digital arts/culture & open source experimental electronic music technology (ie new approaches to digital sound synthesis with reference to FM and granular, collaborative and/or novel approaches to live electronic music performance, sampling, EQs/filtering, algorave, audio archiving and cataloging technology)
 - 🤔 I’m looking for help with Golang and Apache Spark
 - 💬 Ask me about Tidal Cycles, Supercollider & MaxMSP
-- 📫 How to reach me: sachabeaumier.github.io or on some niche discogs subforum
+- 📫 How to reach me: sachabeaumier.github.io or on some niche discogs subforum...
 
 <p>
   <img alt="React logo" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />  
