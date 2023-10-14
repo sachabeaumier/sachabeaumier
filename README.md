@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a full stack developer/data specialist. I enjoy working with data & making tech that is accessible and purposeful
+I am a developer/data specialist. I enjoy working with data & making tech that is accessible and purposeful
 
 
 
