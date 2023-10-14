@@ -4,10 +4,10 @@ I am a full stack developer/data specialist. I enjoy working with data & making 
 
 
 
-- 🔭 I’m currently reading "Scala Programming Projects" by Nicolas Jorand & Mikaël Valot and O'Reilly 
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently completing "Practical Deep Learning for Coders" by fast.ai
+- 🌱 I’m currently learning PyTorch and Neural Networks
 - 👯 I’m looking to collaborate on data heavy applications, geospatial applications, digital arts/culture & open source experimental electronic music technology (ie new approaches to digital sound synthesis with reference to FM and granular, collaborative and/or novel approaches to live electronic music performance, sampling, EQs/filtering, algorave, audio archiving and cataloging technology)
-- 🤔 I’m looking for help with Golang and Apache Spark
+- 🤔 I’m looking for help with Deep Learning engineering
 - 💬 Ask me about Tidal Cycles, Supercollider & MaxMSP
 - 📫 How to reach me: sachabeaumier.github.io or on some niche discogs subforum...
 
