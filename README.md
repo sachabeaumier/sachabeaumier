@@ -2,8 +2,6 @@
 
 I am a dev working in the data engineering space. I enjoy working with data & making tech that is accessible and purposeful
 
-
-
 - 🔭 I’m currently completing "Practical Deep Learning for Coders" by fast.ai
 - 🌱 I’m currently learning PyTorch and Neural Networks
 - 👯 I’m looking to collaborate on data heavy applications, geospatial applications, digital arts/culture & open source experimental electronic music technology (ie new approaches to digital sound synthesis with reference to FM and granular, collaborative and/or novel approaches to live electronic music performance, sampling, EQs/filtering, algorave, audio archiving and cataloging technology)
