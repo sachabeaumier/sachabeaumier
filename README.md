@@ -20,7 +20,7 @@ I am a dev working in the data engineering space. I enjoy working with data & ma
   <img alt="sqlite3 logo" src="https://img.shields.io/badge/SQLite3-003B57.svg?style=flat-square&logo=SQLite&logoColor=white" />
   <img alt="express logo" src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white" />
   <img alt="python logo" src="https://img.shields.io/badge/Python-000000.svg?style=flat-square&logo=Python&logoColor=yellow" />
-  <img alt="C++ logo src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=c++&logoColor=white%22" />
+  <img alt="C++ logo" src="https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=c++&logoColor=white%22" />
   
 </p>
 
