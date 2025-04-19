@@ -25,10 +25,6 @@ I am a dev working in the data engineering space. I enjoy working with data & ma
 </p>
 
 
-/*
-<a href="https://github.com/sachabeaumier/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachabeaumier&layout=compact&langs_count=8&card_width=320" />
-</a>
-*/
+
 
 
